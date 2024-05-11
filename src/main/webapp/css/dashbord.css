@@ -1,0 +1,14 @@
+@charset "UTF-8";
+*
+{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.dashbord
+{
+	background-image: url(petrol-station.jpg);
+    background-size: cover;
+   background-position: center;
+}
+
